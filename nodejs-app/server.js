@@ -1,5 +1,3 @@
-var createError = require('create-error');
-
 var express = require('express');
 app = express();
 
